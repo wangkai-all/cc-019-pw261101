@@ -7,3 +7,11 @@ node_modules/
 __pycache__/
 .claude/
 .cc-workbench/
+
+# local
+*.duckdb
+*.duckdb.wal
+.npm-cache/
+dist/
+.pytest_cache/
+tsconfig.tsbuildinfo
